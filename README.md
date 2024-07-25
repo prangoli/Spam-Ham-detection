@@ -4,11 +4,11 @@ This repository contains a Jupyter Notebook project for detecting spam emails us
 
 ## Introduction
 
-This project aims to build a robust spam detection system that can classify emails as spam or not spam. Spam detection is crucial for maintaining the integrity of communication systems and protecting users from malicious content. The neural network model utilized in this project leverages LSTM (Long Short-Term Memory) layers and an attention mechanism to effectively capture and analyze the contextual information present in email texts. By doing so, the model can discern subtle patterns and dependencies that are indicative of spam.
+This project aims to build a robust spam detection system that can classify emails as spam or not spam. Spam detection is crucial for maintaining the integrity of communication systems and protecting users from malicious content. The neural network model utilized in this project uses LSTM (Long Short-Term Memory) layers and an attention mechanism to effectively capture and analyze the contextual information present in email texts. By doing so, the model can discern subtle patterns and dependencies that are indicative of spam.
 
 ## Dataset
 
-The dataset used in this project is the [Spam Mails Dataset](https://www.kaggle.com/datasets/venky73/spam-mails-dataset). It consists of email texts labeled as spam or not spam. The dataset contains a balanced number of spam and non-spam emails, making it suitable for training a binary classification model. The dataset is pre-divided into training and testing sets to facilitate model evaluation.
+The dataset used in this project is the [Spam Mails Dataset](https://www.kaggle.com/datasets/venky73/spam-mails-dataset). It consists of email texts labeled as spam or not spam. The dataset contains a number of spam and non-spam emails, making it suitable for training a binary classification model. The dataset is pre-divided into training and testing sets to facilitate model evaluation.
 
 ## Preprocessing
 
