@@ -8,7 +8,7 @@ This project aims to build a robust spam detection system that can classify emai
 
 ## Dataset
 
-The dataset used in this project is the [Spam Mails Dataset](https://www.kaggle.com/datasets/venky73/spam-mails-dataset). It consists of email texts labeled as spam or not spam. The dataset contains a number of spam and non-spam emails, making it suitable for training a binary classification model. The dataset is pre-divided into training and testing sets to facilitate model evaluation.
+The dataset used in this project is the [Spam Mails Dataset](https://www.kaggle.com/datasets/venky73/spam-mails-dataset). It consists of email texts labeled as spam or not spam, making it suitable for training a binary classification model. The dataset is pre-divided into training and testing sets to facilitate model evaluation.
 
 ## Preprocessing
 
